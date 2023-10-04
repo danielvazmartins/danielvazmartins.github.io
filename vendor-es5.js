@@ -125963,3 +125963,4 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   }
 }]);
+//# sourceMappingURL=vendor-es5.js.map
